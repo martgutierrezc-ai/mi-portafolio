@@ -1,16 +1,28 @@
-# React + Vite
+# Portafolio Profesional - Analista Programador
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portafolio web personal desarrollado con **React** y **Vite**, diseñado bajo los principios de **Atomic Design** y estándares modernos de diseño UI/UX responsive.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Tecnologías y Herramientas
+- **React** (Librería de componentes)
+- **Vite** (Entorno de desarrollo rápido)
+- **CSS3** (Estilos globales y modulares)
+- **Atomic Design** (Estructura de componentes en átomos, moléculas y organismos)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+##  Requisitos Previos
+Antes de ejecutar el proyecto en tu entorno local, asegúrate de tener instalado:
+- [Node.js](https://nodejs.org/) (Versión 18 o superior recomendada)
+- **npm** (Gestor de paquetes incluido con Node.js)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Instrucciones para Instalar y Ejecutar en Local
+
+Sigue los siguientes pasos desde tu terminal (PowerShell, CMD o terminal integrada):
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/martgutierrezc-ai/mi-portafolio.git](https://github.com/martgutierrezc-ai/mi-portafolio.git)
